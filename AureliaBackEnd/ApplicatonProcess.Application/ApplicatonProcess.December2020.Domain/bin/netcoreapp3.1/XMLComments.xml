@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApplicatonProcess.December2020.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:ApplicatonProcess.December2020.Domain.Models.PersonalInfo.Name">
+            <summary>Full Name.</summary>
+            <value>Full Name.</value>
+            <example>Mark Anthony</example>
+        </member>
+        <member name="P:ApplicatonProcess.December2020.Domain.Models.PersonalInfo.FamilyName">
+            <summary>Family Name.</summary>
+            <value>Family Name.</value>
+            <example>Fernandaz</example>
+        </member>
+    </members>
+</doc>
